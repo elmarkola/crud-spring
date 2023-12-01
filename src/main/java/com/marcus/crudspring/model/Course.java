@@ -8,8 +8,6 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Data;
 
-
-
 @Entity
 @Data
 //@Table(name="cursos")para mudar o nome na tabela
